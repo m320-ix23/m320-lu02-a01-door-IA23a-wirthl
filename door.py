@@ -1,5 +1,5 @@
 class Door:
-    """
+  """
     Diese Klasse beschreibt eine Türe mit der Eigenschaft
     door_is_open (für geöffnete Türe) sowie door_is_locked .
     Die Türe überwacht die beiden Zustände und verhindert so
@@ -11,8 +11,8 @@ class Door:
     # Danach folgen die Übergabeparameter, deren Werte dann
     # Attribute können aber auch mit einem fixen Wert
     # Konstruktoren werden als Erstes im Programm
-    def __init__(self, ref2door_lock, base_color):
-        """
+  def __init__(self, ref2door_lock, base_color):
+    """
         Erzeugt ein Tür-Objekt.
         :param ref2door_lock:
         :param base_color:
