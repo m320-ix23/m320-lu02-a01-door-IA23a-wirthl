@@ -79,7 +79,7 @@ class Door:
   def color(self):
     """
     Getter-Methode für die Eigenschaft color.
-    :return: Die Farbe des Objekts.
+    :return: Die Farbe  des Objekts.
     """
     return self._color
 
